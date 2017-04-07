@@ -628,6 +628,13 @@ nmap <m-n> <Plug>yankstack_substitute_newer_paste
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 NeoBundle 'elixir-lang/vim-elixir'
 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" typescript-vim
+"
+" For Typescript support
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+NeoBundle 'leafgarland/typescript-vim'
+
 call neobundle#end()
 
 :runtime macros/matchit.vim
